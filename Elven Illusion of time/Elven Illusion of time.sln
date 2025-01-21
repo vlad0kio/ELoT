@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abiogenesis3d.Shared", "Abiogenesis3d.Shared.csproj", "{081F9C1C-AE5B-7E9D-3793-88C207B9F7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abiogenesis3d.UPixelator", "Abiogenesis3d.UPixelator.csproj", "{42F4C01F-F603-B5C2-433A-5515D0E52E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{50BE4573-CA22-C509-7AB1-C69DED26C857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCameraEvents", "MultiCameraEvents.csproj", "{1AB7349A-4C72-1A7B-188C-5462E2D969A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081F9C1C-AE5B-7E9D-3793-88C207B9F7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081F9C1C-AE5B-7E9D-3793-88C207B9F7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081F9C1C-AE5B-7E9D-3793-88C207B9F7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081F9C1C-AE5B-7E9D-3793-88C207B9F7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F4C01F-F603-B5C2-433A-5515D0E52E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F4C01F-F603-B5C2-433A-5515D0E52E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F4C01F-F603-B5C2-433A-5515D0E52E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F4C01F-F603-B5C2-433A-5515D0E52E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BE4573-CA22-C509-7AB1-C69DED26C857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BE4573-CA22-C509-7AB1-C69DED26C857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BE4573-CA22-C509-7AB1-C69DED26C857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BE4573-CA22-C509-7AB1-C69DED26C857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB7349A-4C72-1A7B-188C-5462E2D969A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB7349A-4C72-1A7B-188C-5462E2D969A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB7349A-4C72-1A7B-188C-5462E2D969A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB7349A-4C72-1A7B-188C-5462E2D969A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
